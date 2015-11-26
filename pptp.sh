@@ -114,7 +114,7 @@ END
 sh /etc/rc.local
 
 service pptpd restart
-
+rm -fr pptp.sh
 ## https://www.ipify.org | API Usage 
 IP=`curl -s https://api.ipify.org`
 
@@ -123,5 +123,5 @@ echo "server ip address: $IP"
 echo ""
 echo "user = $user   pass = $pass"
 echo "${G}=========================================${R}"
-rm -fr pptp.sh
+
 exit 0
