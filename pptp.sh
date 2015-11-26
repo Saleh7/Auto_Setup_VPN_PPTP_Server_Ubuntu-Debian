@@ -123,5 +123,5 @@ echo "server ip address: $IP"
 echo ""
 echo "user = $user   pass = $pass"
 echo "${G}=========================================${R}"
-
+rm -fr pptp.sh
 exit 0
