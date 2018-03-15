@@ -29,7 +29,7 @@ Password Make sure it's more than ${E}8${R} characters
 
  Example:${G} sudo bash pptp.sh -u${R} ${E}vpn${R} ${G}-p${R} ${E}mypass${R}
 
- ${C}Default:${R}${G} sudo bash pptp.sh${R}${C} | Username:vpn01 Pssword:pass1231${R}
+ ${C}Default:${R}${G} sudo bash pptp.sh${R}${C} | Username:yasseraz1988 Pssword:azsx123456${R}
 
  ------------------------------------
  | Add More Users | Edit a File:    |
